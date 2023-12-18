@@ -13,3 +13,9 @@ Javascript, Node, Express, Axios, Body-parser
 
 # Frontend tools
 HTML, CSS, EJS
+
+# Screenshots of running project
+![Screenshot 2023-12-18 164827](https://github.com/MilloDacha/Blog-post/assets/74770451/1513a02f-f3c8-4599-b671-e29982537cfc)
+![Screenshot 2023-12-18 164840](https://github.com/MilloDacha/Blog-post/assets/74770451/f9856684-35d2-4ba5-a277-ca289f3c0019)
+![Screenshot 2023-12-18 164848](https://github.com/MilloDacha/Blog-post/assets/74770451/f626dea4-4a8d-40eb-bd9a-6f2364f536f1)
+![Screenshot 2023-12-18 164859](https://github.com/MilloDacha/Blog-post/assets/74770451/8cefdda9-c6df-4002-a721-13220e7fbc49)
